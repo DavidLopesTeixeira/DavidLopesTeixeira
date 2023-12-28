@@ -12,3 +12,12 @@
 ###
 
 <p align="left">👋 Hi, I'm David. Currently studying Full Stack Java and developing front-end projects.<br>🔭 I'm looking for my first job opportunity as a developer.<br>🌱 In my free time, I dedicate myself to learning new technologies and developing new projects.<br></p>
+
+<!-- Dropdown -->
+<details>
+  <br>
+  <summary>💾 More about me</summary>
+💬 At 32 years old, currently residing in Curitiba, Paraná, Brazil, I stand out for my passion for solving challenges through innovative technologies. I am immersed in the Full Stack Java course at EBAC School, where each day I absorb new knowledge and achieve success by applying it to projects in constant evolution. My journey reflects a commitment to staying updated and striving for excellence in the field of development.
+
+⚡ In my free time, I dedicate myself to reading documentation to stay constantly updated. Additionally, I value moments spent with my family. I am also a enthusiast of video games, which I appreciate solely as a form of entertainment.
+</details>

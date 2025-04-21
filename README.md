@@ -19,15 +19,16 @@ I'm currently focused on learning **Java**, **C#**, and **C++** development.
 
 <!-- Dropdown -->
 <details>
-  <summary>💾 Mais sobre mim</summary>
+  <summary>💾 More about me</summary>
 
-💬 Tenho 32 anos e atualmente moro em Curitiba, Paraná, Brasil. Sou movido pela paixão de resolver problemas complexos com tecnologias inovadoras, constantemente aprimorando minhas habilidades e aplicando-as em projetos práticos que evoluem a cada dia. Minha jornada é marcada pelo compromisso em me manter atualizado com as últimas tendências e buscar excelência na área de desenvolvimento.
+💬 I'm 32 years old and currently based in Curitiba, Paraná, Brazil. I'm driven by a passion for solving complex problems with innovative technologies, continually growing my skills and applying them to hands-on projects that evolve with each passing day. My journey is marked by a commitment to staying up-to-date with the latest trends and striving for excellence in the development field.
 
-🎮 Além do meu trabalho com desenvolvimento, estou me aprofundando no mundo do **desenvolvimento de jogos**, combinando minhas habilidades de programação com criatividade para criar experiências imersivas e envolventes.
+🎮 In addition to my work in development, I’m diving into the world of **game development**, blending my coding skills with creativity to craft engaging and immersive experiences.
 
-⚡ Quando não estou programando, gosto de ler documentação e aprender sobre tecnologias emergentes para me manter à frente das tendências. Também dou prioridade ao tempo de qualidade com minha família e amigos. Como entusiasta de videogames, encontro prazer nos jogos não apenas como entretenimento, mas também como uma fonte de inspiração para meus próprios projetos.
+⚡ When I’m not coding, I enjoy reading documentation and learning about emerging technologies to stay ahead of the curve. I also prioritize spending quality time with my family and friends. As a video game enthusiast, I find joy in gaming not only as entertainment but also as a source of inspiration for my own projects.
 
 </details>
+
 
 
 ###

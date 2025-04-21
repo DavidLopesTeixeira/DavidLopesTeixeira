@@ -9,9 +9,8 @@
 
 ###
 
-<p align="left">👋 Hi, I'm David!  
-I'm currently focused on learning **Java**, **C#**, and **C++** development.
-
+<p align="left">👋 Hi, I'm David!
+  
 🔭 I'm passionate about exploring new technologies and building creative projects.  
 🎮 I'm also diving into the world of **game development**, combining my love for coding with immersive experiences.  
 🌱 In my free time, I’m always looking to improve my skills and expand my knowledge through hands-on development.

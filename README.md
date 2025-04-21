@@ -9,16 +9,26 @@
 
 ###
 
-<p align="left">👋 Hi, I'm David. Currently studying Full Stack Java and developing front-end projects.<br>🔭 I'm looking for my first job opportunity as a developer.<br>🌱 In my free time, I dedicate myself to learning new technologies and developing new projects.<br></p>
+<p align="left">👋 Hi, I'm David!  
+I'm currently focused on learning **Java**, **C#**, and **C++** development.
+
+🔭 I'm passionate about exploring new technologies and building creative projects.  
+🎮 I'm also diving into the world of **game development**, combining my love for coding with immersive experiences.  
+🌱 In my free time, I’m always looking to improve my skills and expand my knowledge through hands-on development.
+<br></p>
 
 <!-- Dropdown -->
 <details>
-  <br>
-  <summary>💾 More about me</summary>
-💬 At 32 years old, currently residing in Curitiba, Paraná, Brazil, I stand out for my passion for solving challenges through innovative technologies. I am immersed in the Full Stack Java course at EBAC School, where each day I absorb new knowledge and achieve success by applying it to projects in constant evolution. My journey reflects a commitment to staying updated and striving for excellence in the field of development.
+  <summary>💾 Mais sobre mim</summary>
 
-⚡ In my free time, I dedicate myself to reading documentation to stay constantly updated. Additionally, I value moments spent with my family. I am also a enthusiast of video games, which I appreciate solely as a form of entertainment.
+💬 Tenho 32 anos e atualmente moro em Curitiba, Paraná, Brasil. Sou movido pela paixão de resolver problemas complexos com tecnologias inovadoras, constantemente aprimorando minhas habilidades e aplicando-as em projetos práticos que evoluem a cada dia. Minha jornada é marcada pelo compromisso em me manter atualizado com as últimas tendências e buscar excelência na área de desenvolvimento.
+
+🎮 Além do meu trabalho com desenvolvimento, estou me aprofundando no mundo do **desenvolvimento de jogos**, combinando minhas habilidades de programação com criatividade para criar experiências imersivas e envolventes.
+
+⚡ Quando não estou programando, gosto de ler documentação e aprender sobre tecnologias emergentes para me manter à frente das tendências. Também dou prioridade ao tempo de qualidade com minha família e amigos. Como entusiasta de videogames, encontro prazer nos jogos não apenas como entretenimento, mas também como uma fonte de inspiração para meus próprios projetos.
+
 </details>
+
 
 ###
 
